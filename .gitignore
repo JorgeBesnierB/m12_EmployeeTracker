@@ -1,0 +1,4 @@
+# ignore ALL files in ANY directory named temp
+docs/node_modules
+.DS_store
+.env
